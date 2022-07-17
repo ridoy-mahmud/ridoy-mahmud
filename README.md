@@ -75,7 +75,6 @@
     <a href="https://firebase.google.com/" target="_blank"> <img  width="40" height="40" src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img  width="40" height="40" src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://redux.js.org" target="_blank"> <img  width="40" height="40" src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="https://redux.js.org" target="_blank"> <img  width="40" height="40" src="https://img.icons8.com/color/48/000000/tailwind.png"/> </a>
 </p>
 
 
@@ -129,5 +128,5 @@
 
  ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/t60az6lvj3olvgfda0tpg4krb)  
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW?si=c3ae75b279aa42a1)  
     
