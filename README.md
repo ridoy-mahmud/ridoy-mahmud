@@ -1,4 +1,8 @@
 
+![kill](https://user-images.githubusercontent.com/38027343/155214729-d06c4819-875c-428c-8d49-9d6166fef0ac.gif)
+
+<img src="https://i.ibb.co/SXXjpL4/header.png">
+
 <h3 align="center">I'm a passionate Programmer from Bangladesh.</h3>
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
