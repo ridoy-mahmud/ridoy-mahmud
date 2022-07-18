@@ -97,12 +97,11 @@
 
 <div align="center">
 
-
-
   <br/>
-<div>
-<div align="left"><a href="https://github.com/ridoy-mahmud/github-readme-stats"><img alt="Shatil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ridoy-mahmud&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></div>
- <div align="right"><a href="https://github.com/ridoy-mahmud/github-readme-stats"><img alt="Shatil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridoy-mahmud&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></div>
+[<div align="left"><a href="https://github.com/ridoy-mahmud/github-readme-stats"><img alt="Shatil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ridoy-mahmud&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></div>]
+
+ [<div align="right"><a href="https://github.com/ridoy-mahmud/github-readme-stats"><img alt="Shatil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridoy-mahmud&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></div>]
+
 </div>
   <br/>
   <b>Note:</b> 
