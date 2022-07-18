@@ -1,7 +1,6 @@
 <div>
-<img src="https://i.ibb.co/48Dp5pM/1654189081767bbbbbbbbbbbbbbbbbbb.jpg">
+<img style="margin-bottom: 20px;" src="https://i.ibb.co/48Dp5pM/1654189081767bbbbbbbbbbbbbbbbbbb.jpg">
 </div>
-</br>
 <img src="https://i.ibb.co/SXXjpL4/header.png">
 
 <h3 align="center">I'm a passionate Programmer from Bangladesh.</h3>
