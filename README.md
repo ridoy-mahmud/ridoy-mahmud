@@ -42,7 +42,7 @@
 
 - 📫 How to reach me **ridoymahmud678@gmail.com**
 
-- ⚡ Fun fact **I Love Photography and Video games**
+- ⚡ Fun fact **I'm a Football Enthusiast and Love Photography and  Video games**
 
 <div align="center">
 
