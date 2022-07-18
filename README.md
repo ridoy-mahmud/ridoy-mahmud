@@ -1,6 +1,5 @@
 
-![kill](https://user-images.githubusercontent.com/38027343/155214729-d06c4819-875c-428c-8d49-9d6166fef0ac.gif)
-
+<!-- ![kill](https://user-images.githubusercontent.com/38027343/155214729-d06c4819-875c-428c-8d49-9d6166fef0ac.gif) -->
 <img src="https://i.ibb.co/SXXjpL4/header.png">
 
 <h3 align="center">I'm a passionate Programmer from Bangladesh.</h3>
@@ -47,26 +46,6 @@
 
 ## 🚀 Languages and Tools:
 
-<!-- <p align="left"> <a href="https://devdocs.io/c/" target="_blank"> <img src="https://img.icons8.com/dusk/2x/c.png" alt="C" width="50" height="50"/> <a href="https://devdocs.io/cpp/" target="_blank"> <img src="https://img.icons8.com/officel/2x/c-plus-plus.png" alt="C++" width="50" height="50"/></a>
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://flutter.dev/" target="_blank"> <img src="https://storage.googleapis.com/cms-storage-bucket/6a07d8a62f4308d2b854.svg"/> 
-    </a>
-  
-   </a> 
-     </a> 
-     </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-     </a> 
-    </a>
- <br>
-
-</p> -->
 <p align="left"> 
 <a href="https://devdocs.io/c/" target="_blank"> <img src="https://img.icons8.com/dusk/2x/c.png" alt="C" width="50" height="50"/> <a href="https://devdocs.io/cpp/" target="_blank"> <img src="https://img.icons8.com/officel/2x/c-plus-plus.png" alt="C++" width="50" height="50"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img  width="50" height="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
