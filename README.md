@@ -5,30 +5,30 @@
 
 <h3 align="center">I'm a passionate Programmer from Bangladesh.</h3>
 <div>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="35" height="35"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="35" height="35"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="35"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="35" height="35"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="35" height="35"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="35"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="35" height="35"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="35" height="35"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="35" height="35"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="35" height="35"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="35"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="35" height="35"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="35" height="35"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="35" height="35"/>
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="35" height="35"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="35" height="35"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="35" height="35"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="35" height="35"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="35" height="35"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="35" height="35"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="35" height="35"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="35" height="35"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="35" height="35"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="42" height="42"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="42" height="42"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="42" height="42"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="42" height="42"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="42" height="42"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="42" height="42"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="42" height="42"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="42" height="42"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="42" height="42"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="42" height="42"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="42" height="42"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="42" height="42"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="42" height="42"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="42" height="42"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="42" height="42"/>
+    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="42" height="42"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="42" height="42"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="42" height="42"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="42" height="42"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="42" height="42"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="42" height="42"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="42" height="42"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="42" height="42"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="42" height="42"/>
 </div>
 
 
@@ -49,10 +49,10 @@
 
  ## You can find me through these social media accounts ❤️ 
 
-[<img src="https://img.shields.io/badge/linkedin-%235077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ridoymahmud/)
+[<img src="https://img.shields.io/badge/linkedin-%242077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ridoymahmud/)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ridoy._.mahmud/)
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/mahamudulhasan.ridoy.7/)
-[<img src="https://img.shields.io/badge/Portfolio-%23500000.svg?&style=for-the-badge">](https://ridoy-mahmud.github.io/JsPortfolio/)
+[<img src="https://img.shields.io/badge/Portfolio-%24200000.svg?&style=for-the-badge">](https://ridoy-mahmud.github.io/JsPortfolio/)
 
 
 </div>
