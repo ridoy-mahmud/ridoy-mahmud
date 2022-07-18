@@ -37,7 +37,6 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="42" height="42"/>
      <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="42" height="42"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="42" height="42"/>
-     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="42" height="42"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="42" height="42"/>
      <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="42" height="42"/>
       <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="42" height="42"/>
@@ -97,12 +96,11 @@
 
 <div align="center">
 
+
+
   <br/>
-[<div align="left"><a href="https://github.com/ridoy-mahmud/github-readme-stats"><img alt="Shatil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ridoy-mahmud&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></div>]
-
- [<div align="right"><a href="https://github.com/ridoy-mahmud/github-readme-stats"><img alt="Shatil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridoy-mahmud&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></div>]
-
-</div>
+    <a href="https://github.com/ridoy-mahmud/github-readme-stats"><img alt="Shatil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ridoy-mahmud&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/ridoy-mahmud/github-readme-stats"><img alt="Shatil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridoy-mahmud&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> 
  <div align="center">
