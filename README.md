@@ -38,7 +38,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/ridoy-mahmud)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://ridoy-mahmud.github.io/JsPortfolio/)**
 
 - 📫 How to reach me **ridoymahmud678@gmail.com**
 
@@ -46,7 +46,7 @@
 
 <div align="center">
 
- ## You can find me through this social media accounts ❤️ 
+ ## You can find me through these social media accounts ❤️ 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ridoymahmud/)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ridoy._.mahmud/)
