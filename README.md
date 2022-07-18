@@ -94,11 +94,11 @@
  <div align="center">
 
 
-
+<!-- 
 <div align="center">
      
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ridoy-mahmud&theme=react-dark&hide_border=true&area=true)
-</div>
+</div> -->
 
 <br/>
 <br/>
