@@ -46,7 +46,7 @@
 
 <div align="center">
 
- ## You find me through this social media accounts ❤️ 
+ ## You can find me through this social media accounts ❤️ 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ridoymahmud/)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ridoy._.mahmud/)
@@ -76,7 +76,7 @@
 
 <p align="center">
     <a href="https://github.com/ridoy-mahmud/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sarower Murshed Shatil's" src="https://github-readme-streak-stats.herokuapp.com/?user=ridoy-mahmud&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ridoy-mahmud&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
