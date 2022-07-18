@@ -40,6 +40,7 @@
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="42" height="42"/>
      <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="42" height="42"/>
       <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="42" height="42"/>
+       <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="42" height="42"/>
 </div>
 
 
