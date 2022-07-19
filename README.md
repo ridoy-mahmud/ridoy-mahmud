@@ -5,31 +5,31 @@
 
 <h3 align="center">I'm a passionate Programmer from Bangladesh.</h3>
 <div>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="29" height="29"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="29" height="29"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="29" height="29"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="29" height="29"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="29" height="29"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="29" height="29"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="29" height="29"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="29" height="29"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="29" height="29"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="29" height="29"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="29" height="29"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="29" height="29"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="29" height="29"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="29" height="29"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="29" height="29"/>
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="29" height="29"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="29" height="29"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="29" height="29"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="29" height="29"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="29" height="29"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="29" height="29"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="29" height="29"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="29" height="29"/>
-     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="29" height="29"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="29" height="29"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
+     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
 </div>
 
 
@@ -50,10 +50,10 @@
 
  ## You can find me through these social media accounts ❤️ 
 
-[<img src="https://img.shields.io/badge/linkedin-%229077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ridoymahmud/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ridoymahmud/)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ridoy._.mahmud/)
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/mahamudulhasan.ridoy.7/)
-[<img src="https://img.shields.io/badge/Portfolio-%22900000.svg?&style=for-the-badge">](https://ridoy-mahmud.github.io/JsPortfolio/)
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://ridoy-mahmud.github.io/JsPortfolio/)
 
 
 </div>
@@ -118,5 +118,5 @@
 
  ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW?si=c3ae75b279aa29a1)  
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW?si=c3ae75b279aa30a1)  
     
