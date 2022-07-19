@@ -101,8 +101,8 @@
 
 <br/>
 <div align="center"> 
-  <h3>Visitors Count</h3>
-  <img width="40%" src="https://profile-counter.glitch.me/pratik-kale20/count.svg" />
+  <h2>Visitors Count</h2>
+  <img width="50%" src="https://profile-counter.glitch.me/pratik-kale20/count.svg" />
 </div> 
      
  ## Watch my contribution graph being eaten by a snake🐍
