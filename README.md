@@ -89,7 +89,7 @@
     <a href="https://github.com/ridoy-mahmud/github-readme-stats"><img width="50%" align="right" alt="Ridoy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ridoy-mahmud&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
    <a href="https://github.com/ridoy-mahmud/github-readme-stats"><img width="45%" alt="Ridoy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridoy-mahmud&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note: I mostly use JavaScript/C nowdays </b> 
+  <b>Note: I mostly use JavaScript nowdays </b> 
  <div align="center">
 
 
