@@ -78,16 +78,13 @@
 
 <p align="center">
     <a href="https://github.com/ridoy-mahmud/github-readme-streak-stats">
-        <img width="60%" title="🔥 Get streak stats for your profile at git.io/streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ridoy-mahmud&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img width="65%" title="🔥 Get streak stats for your profile at git.io/streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ridoy-mahmud&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 <!-- ## 📊 My Github Stats --> 
 
 <div align="center">
-
-
-
   <br/>
     <a href="https://github.com/ridoy-mahmud/github-readme-stats"><img width="50%" align="right" alt="Ridoy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ridoy-mahmud&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
    <a href="https://github.com/ridoy-mahmud/github-readme-stats"><img width="45%" alt="Ridoy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridoy-mahmud&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
