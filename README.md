@@ -30,17 +30,6 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="29" height="29"/>
      <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="29" height="29"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="29" height="29"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="29" height="29"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="29" height="29"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="29" height="29"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="29" height="29"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="29" height="29"/>
-     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="29" height="29"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="29" height="29"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="29" height="29"/>
-     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="29" height="29"/>
-      <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="29" height="29"/>
-       <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="29" height="29"/>
 </div>
 
 
