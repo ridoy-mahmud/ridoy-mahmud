@@ -101,7 +101,7 @@
 
 <br/>
 <div align="center"> 
-  <h2>Visitors Count</h2><br>
+  <h3>Visitors Count</h3>
   <img width="40%" src="https://profile-counter.glitch.me/pratik-kale20/count.svg" />
 </div> 
      
