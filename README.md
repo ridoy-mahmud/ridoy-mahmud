@@ -3,7 +3,7 @@
 </div>
 <img src="https://i.ibb.co/SXXjpL4/header.png">
 
-<h1 align="center">I'm a passionate Programmer from Bangladesh.</h1>
+<h2 align="center">I'm a passionate Programmer from Bangladesh.</h2>
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
