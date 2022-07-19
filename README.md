@@ -95,15 +95,15 @@
 
 <!-- 
 <div align="center">
-     
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ridoy-mahmud&theme=react-dark&hide_border=true&area=true)
 </div> -->
 
+
 <br/>
-<p align="center"> 
-  Visitors Count<br>
-  <img src="https://profile-counter.glitch.me/pratik-kale20/count.svg" />
-</p> 
+<div align="center"> 
+  ## Visitors Count <br>
+  <img width="40%" src="https://profile-counter.glitch.me/pratik-kale20/count.svg" />
+</div> 
      
  ## Watch my contribution graph being eaten by a snake🐍
 
