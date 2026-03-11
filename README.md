@@ -56,7 +56,7 @@ _Digital Craftsman (Ai Enginner / Software Enginner)_
 
 - I’m currently learning many things, I believe that everyday is a learning opportunity.
 - Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://ridoyno1.vercel.app/) for more details about me.
+- 🤖 Visit my [Portfolio](https://ridoyno1.vercel.app/) for more details about me.
 <!--End Intro-->
 
 #### Stack expertise
