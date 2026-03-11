@@ -1,25 +1,19 @@
-<div style="margin-bottom:40;">
-<img src="https://i.ibb.co/48Dp5pM/1654189081767bbbbbbbbbbbbbbbbbbb.jpg">
-</div>
 <img src="https://i.ibb.co/SXXjpL4/header.png">
-
-<h2 align="center">I'm a passionate Programmer from Bangladesh.</h2>
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
@@ -29,91 +23,74 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
      <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="30" height="30"/>
-<!--     <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/> -->
+     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="30" height="30"/>
 </div>
 
+<div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=vision-friendly-dark&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello,+this+is+Riana;AI+Engineer+(Full-stack);" alt="Headline" />
+    </div>
 
-## 🙋‍♂️ About Me
+<div align=center>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+  </div>
+  
+### Welcome!
+*I am an AI & Full-stack Engineer with expertise in Machine Learning, Deep Learning, and Full-stack development. I specialize in building AI-powered applications and web platforms, with a strong focus on technologies like Python, JavaScript, React.js, Node.js, and MongoDB. I’m also experienced in working with cloud platforms such as Firebase and DigitalOcean.*
 
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/martin-sidorov" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="martin-sidorov" height="30" width="40" /></a>
+  <a href="https://fb.com/nitram278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nitram278" height="30" width="40" /></a>
+  <a href="https://dev.to/matrix278" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="matrix278" height="30" width="40" /></a>
+  <a href="https://twitter.com/nitram278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nitram278" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/matrix27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="matrix27" height="30" width="40" /></a>
+  <a href="https://codepen.io/matrix27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="matrix27" height="30" width="40" /></a>
+  <a href="https://martin-sidorov.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@martin.sidorov27" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/11167914" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11167914" height="30" width="40" /></a>
+</p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms. Object Oriented Programming, Clean Code**
+#### Frontend Magic
 
-<!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
+<span>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,typescript,tailwind,bootstrap,materialui" />
+</span>
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://ridoy-mahmud.github.io/JsPortfolio/)**
+#### Backend Artistry
 
-- 📫 How to reach me **ridoymahmud678@gmail.com**
+<span>
+  <img src="https://skillicons.dev/icons?i=php,laravel,kotlin,nodejs,express,fastapi,mongodb,mysql,postgres" />
+</span>
 
-- ⚡ Fun fact **I'm a Football Enthusiast and Love Photography and  Video games**
+#### DevOps & Tools
+
+<span>
+  <img src="https://skillicons.dev/icons?i=git,ubuntu,docker,aws,githubactions" />
+</span>
+
+#### Git stats:
 
 <div align="center">
+        <a href="https://github.com/RianaAzad">
+  <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayantGoel001&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+  <br> <br>
+              
+  <img src="https://streak-stats.demolab.com?user=RianaAzad&theme=dark&hide_border=true&border_radius=0&" height="150" alt="streaks graph"  />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RianaAzad&custom_title=Riana's%20GitHub%20Stats&show_icons=true&theme=dark&hide_border=true&border_radius=0&count_private=true" height="150" alt="stats graph"  />
 
- ## You can find me through these social media accounts ❤️ 
+  </a>
+</div> <br>
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ridoymahmud/)
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ridoy._.mahmud/)
-[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/mahamudulhasan.ridoy.7/)
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://ridoy-mahmud.github.io/JsPortfolio/)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=JayantGoel001&theme=react-dark&hide_border=true&area=true)
+<br>
 
-
+<!--Buy me a coffee-->
+<div align="center">
+<a href="https://www.buymeacoffee.com/Kiran1689" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
 </div>
-
-## 🚀 Languages and Tools:
-
-<p align="left"> 
-<a href="https://devdocs.io/c/" target="_blank"> <img src="https://img.icons8.com/dusk/2x/c.png" alt="C" width="57" height="57"/> <a href="https://devdocs.io/cpp/" target="_blank"> <img src="https://img.icons8.com/officel/2x/c-plus-plus.png" alt="C++" width="57" height="57"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img  width="57" height="57" src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://reactjs.org/" target="_blank"> <img  width="57" height="57" src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img  width="57" height="57" src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img  width="57" height="57" src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img  width="57" height="57" src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img  width="57" height="57" src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img  width="57" height="57" src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="57" height="48"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img  width="57" height="57" src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img  width="57" height="57" src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
 
-<div align="center">
-
-<p align="center">
-    <a href="https://github.com/ridoy-mahmud/github-readme-streak-stats">
-        <img width="65%" title="🔥 Get streak stats for your profile at git.io/streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ridoy-mahmud&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-<!-- ## 📊 My Github Stats --> 
-
-<div align="center">
-  <br/>
-    <a href="https://github.com/ridoy-mahmud/github-readme-stats"><img width="50%" align="right" alt="Ridoy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ridoy-mahmud&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-   <a href="https://github.com/ridoy-mahmud/github-readme-stats"><img width="45%" alt="Ridoy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridoy-mahmud&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note: I mostly use JavaScript nowdays </b> 
- <div align="center">
-
-
-<!-- 
-<div align="center">
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ridoy-mahmud&theme=react-dark&hide_border=true&area=true)
-</div> -->
-
-
-<br/>
-<div align="center"> 
-  <h2>Visitors Count</h2>
-  <img width="50%" src="https://profile-counter.glitch.me/pratik-kale20/count.svg" />
-</div> 
-     
- ## Watch my contribution graph being eaten by a snake🐍
-
-<p align="center">
-  <img src="https://github.com/sourabmaity/sourabmaity/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>  
-    
-    
-
- ### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW?si=c3ae75b279aa30a1)  
-    
+---
