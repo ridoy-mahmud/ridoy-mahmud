@@ -28,9 +28,8 @@
 </div>
 
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=vision-friendly-dark&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello,+this+is+Riana;AI+Engineer+(Full-stack);" alt="Headline" />
-    </div>
-
+        <img src="https://readme-typing-svg.herokuapp.com?color=vision-friendly-dark&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello,+this+is+Ridoy;AI+Engineer+(Full-stack);" alt="Headline" />
+</div>
 <!-- <div align=center>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
   </div> -->
@@ -46,13 +45,13 @@
 
 <!--Header Name-->
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴋɪʀᴀɴ!
+### I'm Ridoy
 
-_Digital Craftsman (Developer / Programmer)_
+_Digital Craftsman (Ai Developer / Software Enginner)_
 <br />
 
 <!--Start Intro-->
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+<p align="left">_I am an AI & Full-stack Engineer with expertise in Machine Learning, Deep Learning, and Full-stack development. I specialize in building AI-powered applications and web platforms, with a strong focus on technologies like Python, JavaScript, React.js, Node.js, and MongoDB. I’m also experienced in working with cloud platforms such as Firebase and DigitalOcean._ </p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
