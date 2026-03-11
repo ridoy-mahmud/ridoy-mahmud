@@ -26,10 +26,11 @@
      <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="30" height="30"/>
 </div>
-
+<br>
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=vision-friendly-dark&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello,+this+is+Ridoy;AI+Engineer+(Full-stack);" alt="Headline" />
 </div>
+<br>
 <!-- <div align=center>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
   </div> -->
@@ -53,7 +54,6 @@ _Digital Craftsman (Ai Developer / Software Enginner)_
 <!--Start Intro-->
 <p align="left">_I am an AI & Full-stack Engineer with expertise in Machine Learning, Deep Learning, and Full-stack development. I specialize in building AI-powered applications and web platforms, with a strong focus on technologies like Python, JavaScript, React.js, Node.js, and MongoDB. I’m also experienced in working with cloud platforms such as Firebase and DigitalOcean._ </p>
 
-- ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
 - 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
@@ -61,10 +61,6 @@ _Digital Craftsman (Ai Developer / Software Enginner)_
 - ❤ Contributing to Open Source.
 - 💻 Visit my [Portfolio](https://kirannaragund.com) for more details about me.
 <!--End Intro-->
-
-### Welcome!
-
-_I am an AI & Full-stack Engineer with expertise in Machine Learning, Deep Learning, and Full-stack development. I specialize in building AI-powered applications and web platforms, with a strong focus on technologies like Python, JavaScript, React.js, Node.js, and MongoDB. I’m also experienced in working with cloud platforms such as Firebase and DigitalOcean._
 
 #### Frontend Magic
 
@@ -88,16 +84,16 @@ _I am an AI & Full-stack Engineer with expertise in Machine Learning, Deep Learn
 
 <div align="center">
         <a href="https://github.com/RianaAzad">
-  <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayantGoel001&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+  <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridoy-mahmud&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   <br> <br>
               
-  <img src="https://streak-stats.demolab.com?user=RianaAzad&theme=dark&hide_border=true&border_radius=0&" height="150" alt="streaks graph"  />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RianaAzad&custom_title=Riana's%20GitHub%20Stats&show_icons=true&theme=dark&hide_border=true&border_radius=0&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=ridoy-mahmud&theme=dark&hide_border=true&border_radius=0&" height="150" alt="streaks graph"  />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ridoy-mahmud&custom_title=Riana's%20GitHub%20Stats&show_icons=true&theme=dark&hide_border=true&border_radius=0&count_private=true" height="150" alt="stats graph"  />
 
   </a>
 </div> <br>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=JayantGoel001&theme=react-dark&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=ridoy-mahmud&theme=react-dark&hide_border=true&area=true)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
