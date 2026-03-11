@@ -48,24 +48,21 @@
 
 ### I'm Ridoy
 
-_Digital Craftsman (Ai Developer / Software Enginner)_
+_Digital Craftsman (Ai Enginner / Software Enginner)_
 <br />
 
 <!--Start Intro-->
 <p align="left">_I am an AI & Full-stack Engineer with expertise in Machine Learning, Deep Learning, and Full-stack development. I specialize in building AI-powered applications and web platforms, with a strong focus on technologies like Python, JavaScript, React.js, Node.js, and MongoDB. I’m also experienced in working with cloud platforms such as Firebase and DigitalOcean._ </p>
 
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
-- ❤ Contributing to Open Source.
-  <br>
-- 💻 Visit my [Portfolio](https://kirannaragund.com) for more details about me.
+- I’m currently learning many things, I believe that everyday is a learning opportunity.
+- Contributing to Open Source.
+- 💻 Visit my [Portfolio](https://ridoyno1.vercel.app/) for more details about me.
 <!--End Intro-->
 
 #### Stack expertise
 
 <span>
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,git,ubuntu,arch,docker" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,git,linux,arch,docker,hyper" />
 </span>
 
 #### Mostly Frontend
@@ -89,7 +86,7 @@ _Digital Craftsman (Ai Developer / Software Enginner)_
 #### Git stats:
 
 <div align="center">
-        <a href="https://github.com/RianaAzad">
+        <a href="https://github.com/ridoy-mahmud">
   <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridoy-mahmud&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   <br> <br>
               
@@ -103,10 +100,11 @@ _Digital Craftsman (Ai Developer / Software Enginner)_
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/martin-sidorov" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="martin-sidorov" height="30" width="40" /></a>
-  <a href="https://fb.com/nitram278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nitram278" height="30" width="40" /></a>
-  <a href="https://dev.to/matrix278" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="matrix278" height="30" width="40" /></a>
-  <a href="https://twitter.com/nitram278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nitram278" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/ridoymahmud06/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="martin-sidorov" height="30" width="40" /></a>
+  <a href="https://ridoymahmud678@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/mahamudulhasanridoy007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
+  <a href="https://dev.to" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="" height="30" width="40" /></a>
+  <a href="https://x.com/ackrman007" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" height="30" width="40" /></a>
   <!-- <a href="https://stackoverflow.com/users/11167914" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11167914" height="30" width="40" /></a> -->
 </p> <br> <br>
 
