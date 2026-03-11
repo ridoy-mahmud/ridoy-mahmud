@@ -56,29 +56,35 @@ _Digital Craftsman (Ai Developer / Software Enginner)_
 
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
 - ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
 - ❤ Contributing to Open Source.
+  <br>
 - 💻 Visit my [Portfolio](https://kirannaragund.com) for more details about me.
 <!--End Intro-->
 
-#### Frontend Magic
+#### Stack expertise
 
 <span>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,typescript,tailwind,bootstrap,materialui" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,git,ubuntu,arch,docker" />
+</span>
+
+#### Mostly Frontend
+
+<span>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,materialui,figma" />
 </span>
 
 #### Backend Artistry
 
 <span>
-  <img src="https://skillicons.dev/icons?i=php,laravel,kotlin,nodejs,express,fastapi,mongodb,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=nodejs,npm,express,fastapi,mongodb,mysql,postgres,prisma,redux,firebase" />
 </span>
 
-#### DevOps & Tools
+<!-- #### DevOps & Tools
 
 <span>
   <img src="https://skillicons.dev/icons?i=git,ubuntu,docker,aws,githubactions" />
-</span>
+</span> -->
 
 #### Git stats:
 
@@ -101,15 +107,12 @@ _Digital Craftsman (Ai Developer / Software Enginner)_
   <a href="https://fb.com/nitram278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nitram278" height="30" width="40" /></a>
   <a href="https://dev.to/matrix278" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="matrix278" height="30" width="40" /></a>
   <a href="https://twitter.com/nitram278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nitram278" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/matrix27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="matrix27" height="30" width="40" /></a>
-  <a href="https://codepen.io/matrix27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="matrix27" height="30" width="40" /></a>
-  <a href="https://martin-sidorov.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@martin.sidorov27" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/11167914" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11167914" height="30" width="40" /></a>
+  <!-- <a href="https://stackoverflow.com/users/11167914" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11167914" height="30" width="40" /></a> -->
 </p> <br> <br>
 
 <!--Buy me a coffee-->
 <div align="center">
-<a href="https://www.buymeacoffee.com/Kiran1689" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
+<a href="https://www.buymeacoffee.com" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
 </div>
 <!--Footer--> 
 <p align="center">
