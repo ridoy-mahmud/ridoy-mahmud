@@ -31,15 +31,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=vision-friendly-dark&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello,+this+is+Ridoy;AI+Engineer+(Full-stack);" alt="Headline" />
 </div>
 <br>
-<!-- <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-  </div> -->
 
-<!--Banner-->
-
-<!-- ![Kiran1689 Banner Image](./banner.png) -->
-
-<!--Night Owl image-->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
@@ -56,25 +48,25 @@ _Digital Craftsman (Ai Enginner / Software Enginner)_
 
 - I’m currently learning many things, I believe that everyday is a learning opportunity.
 - Contributing to Open Source.
-- 🤖 Visit my <div style="text center flex">[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&size)]</div>(https://evrenos-dev.vercel.app)(https://ridoyno1.vercel.app/) for more details about me.
+- 🤖 Visit my [Portfolio](https://ridoyno1.vercel.app/) for more details about me.
 <!--End Intro-->
 
 #### Stack expertise
 
 <span>
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,git,linux,arch,docker,hyper" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,tensorflow,pytorch,linux,arch,docker,ni" />
 </span>
 
 #### Mostly Frontend
 
 <span>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,materialui,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,materialui,figma,md" />
 </span>
 
 #### Backend Artistry
 
 <span>
-  <img src="https://skillicons.dev/icons?i=nodejs,npm,express,fastapi,mongodb,mysql,postgres,prisma,redux,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,npm,express,fastapi,git,mongodb,mysql,postgres,prisma,redux,firebase,bash" />
 </span>
 
 <!-- #### DevOps & Tools
@@ -86,9 +78,10 @@ _Digital Craftsman (Ai Enginner / Software Enginner)_
 #### Git stats:
 
 <div align="center">
-        <a href="https://github.com/ridoy-mahmud">
-  <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridoy-mahmud&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-  <br> <br>
+  <a href="https://github.com/ridoy-mahmud">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridoy-mahmud&custom_title=Ridoy's%20Used%20Languages&langs_count=10&card_width=390&theme=dark&hide_border=true&layout=compact" alt="Most used languages" />
+
+  <br> 
               
   <img src="https://streak-stats.demolab.com?user=ridoy-mahmud&theme=dark&hide_border=true&border_radius=0&" height="150" alt="streaks graph"  />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ridoy-mahmud&custom_title=Riana's%20GitHub%20Stats&show_icons=true&theme=dark&hide_border=true&border_radius=0&count_private=true" height="150" alt="stats graph"  />
