@@ -56,7 +56,7 @@ _Digital Craftsman (Ai Enginner / Software Enginner)_
 
 - I’m currently learning many things, I believe that everyday is a learning opportunity.
 - Contributing to Open Source.
-- 🤖 Visit my [Portfolio](https://ridoyno1.vercel.app/) for more details about me.
+- 🤖 Visit my <div style="text center flex">[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&size)]</div>(https://evrenos-dev.vercel.app)(https://ridoyno1.vercel.app/) for more details about me.
 <!--End Intro-->
 
 #### Stack expertise
